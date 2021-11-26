@@ -5,4 +5,4 @@ test
 test
 This is the third change
 Git has a mutable index called stage
-
+git manages changes
