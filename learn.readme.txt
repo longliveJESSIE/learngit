@@ -4,8 +4,7 @@ test
 test
 test
 This is the third change
-Git has a mutable index called stage
 git manages changes
 switch branch is easy.
 this is jiayi's work today
-
+jiayi deleted wrong message
