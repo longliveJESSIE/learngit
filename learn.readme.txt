@@ -7,3 +7,6 @@ This is the third change
 Git has a mutable index called stage
 git manages changes
 switch branch is easy.
+Switched to a new branch 'new'
+Creating a new branch is quick AND simple.
+
